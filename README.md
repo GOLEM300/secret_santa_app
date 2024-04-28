@@ -1,4 +1,5 @@
 # Установка
+## Через laravel sail
 1. склонировать репозиторий
 2. composer install
 3. ./vendor/bin/sail up -d
